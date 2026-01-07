@@ -87,3 +87,11 @@ Stop everything:
 
 docker-compose down
 
+## What this demonstrates
+
+- Nginx acting as a reverse proxy
+- Path-based routing using /whoami/
+- Service discovery via Docker Compose DNS
+- Health checks for container availability
+- URL normalization and redirect handling
+
